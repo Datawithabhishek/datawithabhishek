@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Science Intern @Almabetter</h3>
 
-<img align="right" alt="Coding" width ="400" src=https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ani5cyno2n20c7osmhgv3wep7d7ihri5d3okjiwo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width ="400" src=[https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ani5cyno2n20c7osmhgv3wep7d7ihri5d3okjiwo&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ani5cyno2n20c7osmhgv3wep7d7ihri5d3okjiwo&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klearpixeloff&label=Profile%20views&color=0e75b6&style=flat" alt="klearpixeloff" /> </p>
 
