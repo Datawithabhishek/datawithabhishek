@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif))](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Science Intern @Almabetter</h3>
 
