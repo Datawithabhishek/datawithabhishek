@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)](https://rishavchanda.io)
+[![MasterHead]([https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ](https://drive.google.com/file/d/16HMrn3aYiA4UYzQkjMBi6SREEETJhIC6/view?usp=sharing))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Science Intern @Almabetter</h3>
 
