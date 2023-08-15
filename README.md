@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Datawithabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Datawithabhishek" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Power BI ,Machine Learning**
+- 🌱 I’m currently learning **Computer Vision, Power BI, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Deep Learning & Machine Learning Projects**
 
-- 💬 Ask me about **SQL,Machine Learning,Python**
+- 💬 Ask me about **SQL, Machine Learning, Python**
 
-- 📫 How to reach me **Datawithabhishek@gmail.com**
+- 📫 How to reach me **datawithabhishek@gmail.com**
 
 - ⚡ Fun fact **I have a black belt in problem-solving. With my ninja-like skills, I'm always ready to tackle challenges head-on and provide innovative solutions.**
 
@@ -28,10 +28,7 @@
 <hr>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jain-383b3325b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-jain-383b3325b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/klearpixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/klearpixel" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abhixjn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhixjn/" height="30" width="40" /></a>
 <a href="https://medium.com/@datawithabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@datawithabhishek" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/datawithabhish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/datawithabhish" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/datawithabhishek?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/datawithabhishek?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/datawithabhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/datawithabhishek/" height="30" width="40" /></a>
 </p>
