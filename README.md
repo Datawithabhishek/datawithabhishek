@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Datawithabhishek&show_icons=true&locale=en" alt="Datawithabhishek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Datawithabhishek&" alt="Datawithabhishek" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Datawithabhishek&theme=github-dark)](https://git.io/streak-stats)
