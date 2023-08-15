@@ -3,29 +3,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Scientist </h3>
 <p align="center">
-  <a href="https://github.com/MMuttalib1326/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20Intern%20At%20DataInsighto%20Technologies;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F73F&width=435&lines=Data+Scientist+Intern+At+Almabetter;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![N|Solid](https://drive.google.com/uc?export=view&id=16HMrn3aYiA4UYzQkjMBi6SREEETJhIC6)
-
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Science Intern @Almabetter</h3>
 
