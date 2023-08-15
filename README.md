@@ -6,10 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F73F&width=435&lines=Data+Scientist+Intern+At+Almabetter;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
-![N|Solid](https://drive.google.com/uc?export=view&id=16HMrn3aYiA4UYzQkjMBi6SREEETJhIC6)
-<h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
-<h3 align="center">Data Science Intern @Almabetter</h3>
-
 <img align="right" alt="Coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klearpixeloff&label=Profile%20views&color=0e75b6&style=flat" alt="klearpixeloff" /> </p>
