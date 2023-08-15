@@ -1,5 +1,5 @@
 
-![N|Solid](https://drive.google.com/uc?export=view&id=16HMrn3aYiA4UYzQkjMBi6SREEETJhIC6)
+![N|Solid](https://drive.google.com/uc?export=view&id=1OU8yTzWm5ieKMQNll-2A4vfHpQrngvu2)
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Scientist </h3>
 <p align="center">
