@@ -4,11 +4,18 @@
 <h3 align="center">Data Scientist </h3>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F73F&width=435&lines=Data+Scientist+Intern+At+Almabetter;Always+Learn+New+Things" alt="Typing SVG" /></a>
+
+
+<p align="center"> 
+
+     
+  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
 </p>
 
-<img align="right" alt="Coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Datawithabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Datawithabhishek" /> </p>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **About me**
 
 - 🌱 I’m currently learning **Computer Vision, Power BI, Machine Learning**
 
@@ -19,6 +26,29 @@
 - 📫 How to reach me **datawithabhishek@gmail.com**
 
 - ⚡ Fun fact **I have a black belt in problem-solving. With my ninja-like skills, I'm always ready to tackle challenges head-on and provide innovative solutions.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
